@@ -5,7 +5,7 @@ This is a website of an online grocery shopping platform developed using HTML, C
 
 ![Screenshot 2022-01-26 185200](images/signin.png)
 
-![Screenshot 2022-01-24 213417](images/personal info.png)
+![Screenshot 2022-01-24 213417](images/personal.png)
 
 ![Screenshot 2022-01-24 213342](https://user-images.githubusercontent.com/97402437/161426513-002bc807-8451-45c2-9d2b-38a699204459.png)
 
